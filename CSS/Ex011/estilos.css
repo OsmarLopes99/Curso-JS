@@ -34,7 +34,7 @@
         }
 
         #banner {
-            background-color: lightblue;
+            background-color: rgb(6, 153, 202);
             height: 200px;
             display: flex;
             justify-content: center;
@@ -46,7 +46,7 @@
         }
 
         #cards{
-            background-color: rgb(247, 229, 229);
+            background-color: rgb(184, 66, 66);
             height: 300px;
             display: flex;     
             justify-content: center;       
