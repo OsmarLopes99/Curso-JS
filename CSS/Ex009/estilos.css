@@ -1,0 +1,22 @@
+.Container {
+    background-color: #eb7c7c;
+
+    display: flex;
+    /* flex-direction: row; (padrão)*/
+    /* flex-direction: column;*/
+    /*flex-direction: row-reverse;*/
+    /*flex-direction: column-reverse;*/
+    /*flex-wrap: nowrap;*/
+    /* flex-wrap: wrap;*/
+    flex-wrap: wrap-reverse;
+}
+
+.Container>div {
+
+    background-color: #7070e9;
+    padding: 10px;
+    border: 2px solid black;
+    flex: auto;
+    text-align: center;
+
+}

@@ -1,0 +1,30 @@
+/*
+ID = Identificador --> #
+Class = Classes -->.
+*/
+
+#titulo {
+    background-color: #fff01f;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    background-color: green;
+}
+
+.basico {
+    color: blue;
+}
+
+.intermediario {
+    color: green;
+}
+
+.avançado {
+    color: red;
+}
+
+.destaque{background-color: blueviolet;}

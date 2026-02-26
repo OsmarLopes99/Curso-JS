@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Betania+Patmos+In&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+body {
+    background-color: #555555d5;
+
+    font-family: "Betania patmos in";
+
+
+
+}
+
+p {
+    font-family: "Betania", sans-serif;
+}
+
+h1 {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}

@@ -1,0 +1,22 @@
+div{
+
+background-color: rgb(172, 172, 172);
+width: 200px;
+height: 200px;
+text-align: center;
+font-size: 30px;
+border: 2px solid black;
+margin-bottom: 20px;
+margin-left: 100px;
+margin: 10px
+
+}
+
+.vermelha:hover{background-color: red;
+    font-size: 80px;
+    color: white;
+}
+
+.amarela:hover{background-color: green;}
+
+.verde:hover{background-color:yellow}

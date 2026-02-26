@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    background-color: lightgreen;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    margin-bottom: 20PX;
+    height: 100PX;
+    /*align-items: flex-start;*/
+    /* alinhamentos:
+Para alinhamentos, iremos utilizar o justify-contente
+*/
+    /*justify-content: flex-start;*/
+    /*justify-content: flex-end;*/
+    /*justify-content: center; centralizado*/
+    /*justify-content: space-between; espaço entre os itens*/
+    /*justify-content: space-around; espaços ao redor do item*/
+    /*justify-content: space-evenly; deixa todos os itens com espaços iguais*/
+}
+
+#PAI {
+    justify-content: flex-end;
+
+}
+
+#FILHO {
+    justify-content: center;
+  
+}
+
+#NETO {
+    justify-content: space-between;
+}
+
+#BISNETO {
+    justify-content: space-around;
+}
+
+#TATARANETO {
+    justify-content: space-evenly;
+
+}

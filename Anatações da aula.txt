@@ -1,0 +1,39 @@
+aula 1 levantamento de requisitos, "stakeholders", a parte interessada do projeto.
+
+
+Aula 2 Escolher um tema para criação de sistma.
+
+1- Requisitos funcionais, é tudo aquilo que o sistema faz.
+
+2- Não funcional é como o sistema irá fazer. (comportamento, qualidade, tempo de resposta,fácil acesso etc).
+
+3- Negócio:Como o negócio funciona.
+
+Atividade tema escolhido:Sistema para restaurante.
+
+Requisitos funcionais:
+
+O sistema deve permitir o cadastro, edição e exclusão de usuários.
+O sistema deve permitir cadastrar, editar, listar e remover itens do cardápio.
+O sistema deve permitir a criação, alteração e cancelamento de pedidos.
+o sistema deve permitir o controle de status das mesas mesas.
+O sistema deve enviar automáticamente os pedidos confirmados para a cozinha.
+O sistema deve permitir o acompanhamento do pedido em tempo real.
+O sistema deve permitir o fechamento da conta por mesa ou pedido.
+O sistema deve permitir o registro pagamentos em diferentes formas (pix, pagamento, cartões).
+O sistema deve permitr 
+
+
+
+
+09/02/2026 introdução ao designer ux/ui (uai/uéx).
+
+11/02/2026 introdução ao html.(linguagem de marcação de hiper textos, links).
+para verificar todas as tags w3schools é uma das fontes.
+
+
+18/02/2026
+CSS folhas de estilos em cascartas.(Estilização)
+
+
+
